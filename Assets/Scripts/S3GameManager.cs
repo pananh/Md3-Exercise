@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Runtime.CompilerServices;
 using UnityEngine;
 
-public class GameManager : MonoBehaviour
+public class S3GameManager : MonoBehaviour
 {
     [SerializeField] private List<GameObject> playerList;
     
